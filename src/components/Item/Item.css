@@ -1,0 +1,7 @@
+.itemStyle {
+  width : 250px;
+  height : 250px;
+  display: inline-block;
+  background-color: #f4f4f4;
+  margin: 20px;
+}
