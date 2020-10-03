@@ -1,4 +1,4 @@
-# Learning React Part 1-HTML, CSS, JS(ES6)
+# Learning React Part 2: React Basics
 
 This is the first virtual workshop conducted by DSC Charusat, this workshop is the first part of the <b>Learning React Series.</b> <br/>
 <b>Event Date:2-10-2020</b> <br/>
