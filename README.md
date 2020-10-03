@@ -2,7 +2,7 @@
 
 This is the first virtual workshop conducted by DSC Charusat, this workshop is the first part of the <b>Learning React Series.</b> <br/>
 <b>Event Date:2-10-2020</b> <br/>
-<b>Event Time : 1:30 pm to 3:30 p,.</b> 
+<b>Event Time : 1:30 pm to 3:30 pm.</b> 
 <br/>
 <ul>
   Speakers of the Event are 
