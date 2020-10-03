@@ -10,7 +10,7 @@ This is the first virtual workshop conducted by DSC Charusat, this workshop is t
   <li><a href="https://dsccharusat.tech/team/het-shah">Het Shah</a></li>
 </ul>
 
-<p>Presentation that was used during the workshop can be found at: <a href="https://drive.google.com/file/d/189EPepwBba_AV5NiIrkQvQ2Yoih67KfS/view">Presentation</a></p>
+<p>Presentation that was used during the workshop can be found at: <a href="https://drive.google.com/file/d/1TQmCgG40TsKEwjsHOKlAES1LDO0e23Oa/view?usp=sharing">Presentation</a></p>
 <ul>
   <b>Connect with us over Social Media: </b>
     <li><a href="https://dsccharusat.tech/">Website</a></li>
